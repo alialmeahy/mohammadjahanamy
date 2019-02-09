@@ -1,7 +1,7 @@
 ﻿const Discord = require("discord.js");
 const client = new Discord.Client();
 const prefix = "$";
-const devs = ["538351700331855883"]
+const devs = ["433312730171179008"]
 
 
 
